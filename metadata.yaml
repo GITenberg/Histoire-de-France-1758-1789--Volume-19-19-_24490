@@ -15,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Michelet
     - http://en.wikipedia.org/wiki/Jules_Michelet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24490#Histoire-de-France-1758-1789--Volume-19-19-
 gutenberg_bookshelf:
 - France
 - FR Histoire
